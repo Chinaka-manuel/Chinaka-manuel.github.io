@@ -58,10 +58,8 @@
         .Gold{background-color: goldenrod;}
         
         .dropdown-item {border-bottom: 1px solid black; text-align: center};
-        .navbar-brand { justify-items: center;}
-        .navbar { background-color: gray; color: black;}
-        .navbar-brand {color: black; font-weight: bold;}
-        .navbar-light {background-color: rgba(128, 128, 128, 0.212);}
-
+        .navbar-brand {color: black; font-weight: bolder;}
+        .navbar { background-color: gray; color: black;};
+      
 
 
